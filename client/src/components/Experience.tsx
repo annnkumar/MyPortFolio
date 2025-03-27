@@ -85,16 +85,10 @@ const Experience = () => {
     '.experience-title',
     { opacity: 0, y: 30 },
     { opacity: 1, y: 0, duration: 0.8, ease: "power2.out" },
-    { trigger: sectionRef, start: "top 80%" }
-  );
-  
-  useGsapFromTo(
-    '.timeline-line',
-    { height: '0%' },
-    { height: '100%', duration: 1.5, ease: "power2.out" },
-    { trigger: sectionRef, start: "top 70%" }
+    { trigger: '#experience', start: "top 80%" }
   );
 
+  
   return (
     <section id="experience" ref={sectionRef} className="py-24 md:py-32 relative overflow-hidden">
       {/* Floating particles background */}

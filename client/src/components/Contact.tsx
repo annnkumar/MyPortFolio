@@ -40,7 +40,7 @@ const Contact = () => {
     '.contact-title',
     { opacity: 0, y: 30 },
     { opacity: 1, y: 0, duration: 0.8, ease: "power2.out" },
-    { trigger: sectionRef, start: "top 80%" }
+    { trigger: '#contact', start: "top 80%" }
   );
 
   // Mutation for form submission
