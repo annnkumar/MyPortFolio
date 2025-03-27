@@ -47,8 +47,9 @@ export const projects: Project[] = [
     details: "Engineered features and trained Logistic Regression, Decision Trees, Random Forest, and XGBoost for accuracy. Optimized models based on precision, recall, and F1-score for better fraud detection. Developed a Flask web app for real-time fraud detection with a user-friendly interface.",
     technologies: ["Python", "ML", "Flask", "Sklearn"],
     year: "2025",
-    github: "#",
-    liveLink: "#",
+    github: "https://github.com/ankitkumar1302/UPI-Fraud-Detection",
+    liveLink: "https://github.com/ankitkumar1302/UPI-Fraud-Detection",
+    image: "/src/assets/featured-projects.png",
     color: "secondary"
   },
   {
@@ -58,8 +59,8 @@ export const projects: Project[] = [
     details: "Implemented user authentication, bill calculation algorithms, and database integration for storing customer records and consumption history.",
     technologies: ["Java", "SQL", "Swing", "JDBC"],
     year: "2024",
-    github: "#",
-    liveLink: "#",
+    github: "https://github.com/ankitkumar1302/Electric-Billing-System",
+    liveLink: "https://github.com/ankitkumar1302/Electric-Billing-System",
     color: "primary"
   },
   {
@@ -69,8 +70,8 @@ export const projects: Project[] = [
     details: "Implemented regression models to predict Forest Weather Index (FWI) and developed a Flask web application for real-time predictions.",
     technologies: ["Python", "ML", "Flask"],
     year: "2024",
-    github: "#",
-    liveLink: "#",
+    github: "https://github.com/ankitkumar1302/Forest-Weather-Index-Prediction",
+    liveLink: "https://github.com/ankitkumar1302/Forest-Weather-Index-Prediction",
     color: "accent"
   }
 ];
@@ -157,8 +158,8 @@ export const personalInfo = {
   ],
   bio: "Passionate about data, AI, and problem-solving, with a strong focus on innovation.",
   socials: {
-    github: "#",
-    linkedin: "#",
+    github: "https://github.com/ankitkumar1302",
+    linkedin: "https://www.linkedin.com/in/ankit-kumar-1302/",
     twitter: "#"
   }
 };

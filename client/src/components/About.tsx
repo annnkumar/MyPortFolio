@@ -16,10 +16,10 @@ const About = () => {
 
   // GSAP animations for section elements
   useGsapFromTo(
-    aboutRef,
+    '#about',
     { opacity: 0, y: 100 },
     { opacity: 1, y: 0, duration: 0.8, ease: "power2.out" },
-    { trigger: aboutRef, start: "top 80%" }
+    { trigger: '#about', start: "top 80%" }
   );
 
   // Animate the card entry
@@ -114,9 +114,9 @@ const About = () => {
             
             {/* Futuristic glowing button */}
             <a 
-              href="#" 
+              href="/src/assets/Ankit-Kumar-Resume.pdf" 
               className="group relative px-8 py-4 overflow-hidden rounded-lg bg-dark"
-              download
+              download="Ankit-Kumar-Resume.pdf"
             >
               <span className="relative z-10 flex items-center gap-2 font-medium font-space text-lg">
                 <i className="fas fa-file-download"></i>
