@@ -1,0 +1,62 @@
+Ankit Kumar
+initankit.cpp@gmail.com — +91-9631727009
+GitHub — LinkedIn
+
+About Me
+I’m a professional passionate about data, AI, and problem-solving, with a strong focus on innovation.
+
+Education
+Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha
+B.Tech. in Computer Science – 8.38 CGPA (Sep 2022 – Jun 2026)
+
+Technical Skills & Soft Skills
+Languages: C++, C, Java, Python, SQL, HTML, CSS, JavaScript
+Tools & Platforms: AWS, MySQL, Power BI, MS Excel
+Libraries & Frameworks: NumPy, Pandas, Matplotlib, Seaborn, Bokeh, Scikit-learn
+Machine Learning & AI: Preprocessing, EDA, Supervised & Unsupervised Learning, Ensemble Methods,
+Clustering, Time Series Forecasting, Model Evaluation & Optimization
+Development Environments & Version Control: VS Code, Jupyter Notebook, Git, GitHub, Cursor IDE
+Soft Skills: Communication, Problem-Solving, Adaptability
+Languages: Hindi, English
+
+Projects
+UPI Fraud Detection | Python, ML, Flask, Sklearn (2025)
+Built a UPI fraud detection system using ML models to identify suspicious transactions.
+
+Engineered features and trained Logistic Regression, Decision Trees, Random Forest, and XGBoost for accuracy.
+
+Optimized models based on precision, recall, and F1-score for better fraud detection.
+
+Developed a Flask web app for real-time fraud detection with a user-friendly interface.
+
+Electric Billing System | Java, SQL, Swing, JDBC (2024)
+Developed a desktop-based electric billing system to manage consumer electricity usage and automate bill generation.
+
+Forest Weather Index Prediction | Python, ML, Flask (2024)
+Performed comprehensive data collection, EDA, and feature engineering.
+
+Implemented regression models to predict Forest Weather Index (FWI).
+
+Developed a Flask web application for real-time predictions.
+
+Certifications & Achievements
+Cloud Virtual Internship (Oct 2024 – Dec 2024)
+
+AICTE EduSkills Virtual Internship – Curriculum by AWS Academy
+
+Business Analyst by University of Colorado (Jan 2025)
+
+Coursera
+
+Hackathon Achievements (Jan 2024)
+
+Third Place, GFG KIIT Chapter
+
+100 Days Badge of DSA Challenge (Dec 2024)
+
+Leetcode
+
+Extracurricular Activities
+Member, Marketing Department, Keurig Society
+
+Editor, KIIT Film Society
