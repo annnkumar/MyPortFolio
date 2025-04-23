@@ -19,12 +19,16 @@ export default defineConfig({
       "@": path.resolve(__dirname, "client", "src"),
       "@shared": path.resolve(__dirname, "shared"),
       "@assets": path.resolve(__dirname, "attached_assets"),
-    },
+    }
   },
+  root: "client",
+  publicDir: "public",
   build: {
-    outDir: path.resolve(__dirname, "dist/public"),
+    outDir: "../dist/public",
     emptyOutDir: true,
-    sourcemap: true
+    rollupOptions: {
+      input: path.resolve(__dirname, "client/index.html")
+    }
   },
   server: {
     proxy: {
